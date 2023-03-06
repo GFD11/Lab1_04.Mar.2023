@@ -14,7 +14,7 @@ int i_2 = 1;
 
 int main()
 {
-    pc.printf("using simple loops (%d) \r\n",n );
+    pc.printf("using simple loops For here (%d) \r\n",n );
     pc.printf("%d, ", i_1);
     pc.printf("%d, ", i_2);
 
